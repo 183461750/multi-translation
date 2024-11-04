@@ -1,0 +1,26 @@
+{
+    "identifier": "com.fa.bob-plugin-doubean",
+    "version": "0.0.1",
+    "category": "translate",
+    "name": "豆包智能体",
+    "summary": "对接豆包智能体的 Bob 插件",
+    "icon": "icon.png",
+    "author": "fa",
+    "homepage": "https://github.com/fa/bob-plugin-doubean",
+    "appcast": "https://raw.githubusercontent.com/fa/bob-plugin-doubean/master/appcast.json",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "apiKey",
+            "type": "text",
+            "title": "API Key",
+            "desc": "豆包智能体的 API Key"
+        },
+        {
+            "identifier": "botId",
+            "type": "text",
+            "title": "Bot ID",
+            "desc": "豆包智能体的 Bot ID"
+        }
+    ]
+}

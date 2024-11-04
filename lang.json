@@ -1,0 +1,14 @@
+[
+    {
+        "identifier": "auto",
+        "name": "自动识别"
+    },
+    {
+        "identifier": "zh-Hans",
+        "name": "简体中文"
+    },
+    {
+        "identifier": "en",
+        "name": "英语"
+    }
+]
